@@ -1,2 +1,2 @@
-# DataStructuresTemplates
-This is a repository of several templates of Data Structures.
+# Taller_practico2
+This is a repository of Taller_practico2.
